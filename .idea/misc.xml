@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/car_loan/WebRoot/WEB-INF/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <NATIVE>
+        <root url="file://$USER_HOME$/car_loan/WebRoot/WEB-INF/lib" />
+      </NATIVE>
+      <SOURCES>
+        <root url="file://$USER_HOME$/car_loan/WebRoot/WEB-INF/lib" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/car_loan/WebRoot/WEB-INF/lib" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/car_loan/WebRoot/WEB-INF/lib" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</project>
