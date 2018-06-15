@@ -1,0 +1,1 @@
+注意，要加入 @EnableConfigServer 注解，否则配置中心是无法开启的。

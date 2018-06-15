@@ -1,0 +1,18 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8764
+spring:
+  application:
+    name: eurekaclient
+management:
+  security:
+    #关闭安全验证，否则访
+    spring:
+        rabbitmq:
+            host: localhost
+            port: 5672
+            username: guest
+            password: guest
