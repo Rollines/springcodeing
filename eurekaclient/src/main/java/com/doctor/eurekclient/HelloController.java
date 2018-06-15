@@ -1,4 +1,4 @@
-package com.eurekclient;
+package com.doctor.eurekclient;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;

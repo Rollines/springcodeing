@@ -11,7 +11,9 @@
         <module name="eurekaserver" />
         <module name="feign" />
         <module name="gateway" />
+        <module name="zipkin" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

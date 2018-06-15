@@ -1,4 +1,4 @@
-package com.gateway;
+package com.doctor.gateway;
 
 import org.springframework.cloud.netflix.zuul.filters.route.ZuulFallbackProvider;
 import org.springframework.http.HttpHeaders;

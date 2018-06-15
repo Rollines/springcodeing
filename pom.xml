@@ -14,6 +14,7 @@
         <module>gateway</module>
         <module>feign</module>
         <module>config</module>
+        <module>zipkin</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
