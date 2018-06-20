@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29020359-a555-45fa-81b9-ede068ce7952" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-redis/REAMDE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/DistributedLockHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/Lock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/AquiredLockWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/DistributedLocker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/RedisLocker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/RedissonConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/UnableToAquireLockException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/zookeeper/DistributedLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-redis/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-redis/REAMDE.md" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-redis/REAMDE.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,7 +26,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-redis/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="713">
               <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
             </state>
           </provider>
@@ -68,17 +53,10 @@
       <file leaf-file-name="DistributedLock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/zookeeper/DistributedLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1727">
+            <state relative-caret-position="1748">
               <caret line="87" selection-start-line="87" selection-end-line="87" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3391#3399#0" expanded="true" />
-                <element signature="e#4742#4743#0" expanded="true" />
-                <element signature="e#4769#4770#0" expanded="true" />
-                <element signature="e#2413#2414#0" expanded="true" />
-                <element signature="e#2445#2446#0" expanded="true" />
-                <element signature="e#2488#2489#0" expanded="true" />
-                <element signature="e#2520#2521#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,7 +65,7 @@
       <file leaf-file-name="RedisLocker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/RedisLocker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
+            <state relative-caret-position="690">
               <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,7 +77,7 @@
       <file leaf-file-name="UnableToAquireLockException.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/UnableToAquireLockException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
+            <state relative-caret-position="276">
               <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="e#262#263#0" expanded="true" />
@@ -114,22 +92,22 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="207">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+            <state relative-caret-position="477">
+              <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,12 +115,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="REAMDE.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="REAMDE.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud-redis/REAMDE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="431">
-                <caret line="419" column="5" selection-start-line="419" selection-start-column="5" selection-end-line="419" selection-end-column="5" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="495">
+                <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -225,10 +203,10 @@
         <option value="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/AquiredLockWorker.java" />
         <option value="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/RedisLocker.java" />
         <option value="$PROJECT_DIR$/cloud-redis/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-redis/REAMDE.md" />
         <option value="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/DistributedLocker.java" />
         <option value="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/zookeeper/DistributedLock.java" />
         <option value="$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/HelloController.java" />
+        <option value="$PROJECT_DIR$/cloud-redis/REAMDE.md" />
       </list>
     </option>
   </component>
@@ -258,7 +236,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,6 +289,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="lock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcodeing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcodeing" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -328,17 +318,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelWidth0" value="605" />
+    <property name="RequestMappingsPanelWidth1" value="605" />
+    <property name="RequestMappingsPanelWidth2" value="604" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -494,7 +482,8 @@
       <updated>1528958888860</updated>
       <workItem from="1528958891667" duration="11725000" />
       <workItem from="1529026360069" duration="15720000" />
-      <workItem from="1529372466527" duration="20885000" />
+      <workItem from="1529372466527" duration="20968000" />
+      <workItem from="1529456665733" duration="1058000" />
     </task>
     <servers />
   </component>
@@ -510,7 +499,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48330000" />
+    <option name="totallyTimeSpent" value="49471000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -533,11 +522,10 @@
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
       <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.54832345" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.54832345" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32938856" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32938856" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32938856" />
@@ -545,18 +533,19 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32938856" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5187377" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32938856" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.84319526" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1373802" />
-      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5897436" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13844515" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32960597" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32938856" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,6 +553,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gateway/pom.xml">
@@ -760,9 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -798,9 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -808,10 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -833,16 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,13 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1143">
           <caret line="90" column="54" selection-start-line="90" selection-start-column="54" selection-end-line="90" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1178#1179#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,13 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,19 +863,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="207">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/UnableToAquireLockException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="276">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="e#262#263#0" expanded="true" />
@@ -927,16 +886,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/AquiredLockWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/RedisLocker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
+        <state relative-caret-position="690">
           <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -944,19 +896,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-redis/REAMDE.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="431">
-            <caret line="419" column="5" selection-start-line="419" selection-start-column="5" selection-end-line="419" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloud-redis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="713">
           <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
@@ -977,28 +919,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/zookeeper/DistributedLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1727">
+        <state relative-caret-position="1748">
           <caret line="87" selection-start-line="87" selection-end-line="87" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3391#3399#0" expanded="true" />
-            <element signature="e#4742#4743#0" expanded="true" />
-            <element signature="e#4769#4770#0" expanded="true" />
-            <element signature="e#2413#2414#0" expanded="true" />
-            <element signature="e#2445#2446#0" expanded="true" />
-            <element signature="e#2488#2489#0" expanded="true" />
-            <element signature="e#2520#2521#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="69" column="39" selection-start-line="69" selection-start-column="39" selection-end-line="69" selection-end-column="39" />
+        <state relative-caret-position="477">
+          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-redis/src/main/java/com/redis/demo/lock/AquiredLockWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-redis/REAMDE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="495">
+            <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
