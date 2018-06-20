@@ -16,6 +16,7 @@
         <module>config</module>
         <module>zipkin</module>
         <module>cloud-redis</module>
+        <module>cloud-atomikos</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
